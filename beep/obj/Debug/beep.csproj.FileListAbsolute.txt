@@ -1,0 +1,11 @@
+C:\Users\vahid\source\repos\beep\beep\bin\Debug\beep.exe.config
+C:\Users\vahid\source\repos\beep\beep\bin\Debug\beep.exe
+C:\Users\vahid\source\repos\beep\beep\bin\Debug\beep.pdb
+C:\Users\vahid\source\repos\beep\beep\obj\Debug\beep.csproj.AssemblyReference.cache
+C:\Users\vahid\source\repos\beep\beep\obj\Debug\beep.csproj.SuggestedBindingRedirects.cache
+C:\Users\vahid\source\repos\beep\beep\obj\Debug\beep.Form1.resources
+C:\Users\vahid\source\repos\beep\beep\obj\Debug\beep.Properties.Resources.resources
+C:\Users\vahid\source\repos\beep\beep\obj\Debug\beep.csproj.GenerateResource.cache
+C:\Users\vahid\source\repos\beep\beep\obj\Debug\beep.csproj.CoreCompileInputs.cache
+C:\Users\vahid\source\repos\beep\beep\obj\Debug\beep.exe
+C:\Users\vahid\source\repos\beep\beep\obj\Debug\beep.pdb
